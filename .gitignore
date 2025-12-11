@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+error_log
+php_errors.log
+
+# Cache / temp
+/tmp/
+cache/
+*.cache
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.*
